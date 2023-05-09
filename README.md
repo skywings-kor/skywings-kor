@@ -1,4 +1,4 @@
-### 안녕하세요!
+### Hi! I'm developing and learning AI and applying it to various environments.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywings-kor&show_icons=true&theme=radical)
 
