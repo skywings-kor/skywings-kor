@@ -1,5 +1,5 @@
 ### Hi! I'm developing and learning AI and applying it to various environments.
-
+### For security purposes, most repository is private, please understand.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywings-kor&show_icons=true&theme=radical)
 
 <a href="https://simpleicons.org/icons/yolo.svg" target="_blank"><img src="https://img.shields.io/badge/YOLO-000000?style=flat-square&logo=yolo&logoColor=FFFFFF"/></a>
